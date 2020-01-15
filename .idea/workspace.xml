@@ -2,10 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="616632cd-17bc-4295-994c-c3628c6aa90b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/DevFolio/img/Blogging page.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevFolio/img/Dep_EmpDatabase.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevFolio/img/dadataxe.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DevFolio/img/pizza_app.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DevFolio/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/DevFolio/index.html" afterDir="false" />
     </list>
@@ -28,7 +24,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/DevFolio/img" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Resume" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -64,7 +60,9 @@
       <workItem from="1577538318143" duration="7551000" />
       <workItem from="1578263854461" duration="677000" />
       <workItem from="1578382501833" duration="630000" />
-      <workItem from="1579026909185" duration="4374000" />
+      <workItem from="1579026909185" duration="6588000" />
+      <workItem from="1579035279579" duration="3717000" />
+      <workItem from="1579050224485" duration="250000" />
     </task>
     <servers />
   </component>
@@ -84,9 +82,10 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="499" y="252" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1577539863578" />
-    <state x="549" y="167" key="FileChooserDialogImpl" timestamp="1578263923193">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="2606" y="211" key="FileChooserDialogImpl" timestamp="1579050256384">
+      <screen x="1920" y="0" width="1920" height="1040" />
     </state>
+    <state x="2606" y="211" key="FileChooserDialogImpl/0.0.1536.824/1920.0.1920.1040@1920.0.1920.1040" timestamp="1579050256384" />
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1578263923193" />
     <state x="760" y="308" key="com.intellij.ide.util.TipDialog" timestamp="1578382522533">
       <screen x="0" y="0" width="1536" height="824" />
